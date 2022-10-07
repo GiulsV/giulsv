@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulia</h1>
-<h3 align="center">A passionate frontend developer from Italia</h3>
+<h3 align="center">A passionate web developer from Italia</h3>
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=GiulsV&show_icons=true&theme=tokyonight" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulsV&layout=compact" />
