@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Giulia</h1>
 <h3 align="center">A passionate web developer from Italia</h3>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=GiulsV&show_icons=true&theme=tokyonight" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulsV&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GiulsV&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulsV&layout=compact" />
 
+<hr>
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
